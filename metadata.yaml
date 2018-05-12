@@ -1,0 +1,35 @@
+_repo: Beatrice-d-Este-Duchess-of-Milan-1475-1497_25622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cartwright, Julia
+    aliases:
+    - Ady, Julia Mary Cartwright
+    - Ady, Mrs. Henry
+    birthdate: 1851
+    deathdate: 1924
+    gutenberg_agent_id: '31468'
+    url: http://www.gutenberg.org/2009/agents/31468
+description: ''
+gutenberg_issued: '2008-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Nobility -- Italy -- Milan -- History -- To 1500'
+- !lcsh 'Beatrice, consort of Lodovico Sforza il Moro, Duke of Milan, 1475-1497'
+- !lcsh 'Italy -- History -- 1268-1492'
+- !lcsh 'Women -- Biography'
+- !lcsh 'Renaissance -- Italy -- Milan'
+- !lcsh 'Nobility -- Italy -- Milan -- Biography'
+- !lcc 'DG'
+title: Beatrice d'Este, Duchess of Milan, 1475-1497
+url: http://www.gutenberg.org/ebooks/25622
